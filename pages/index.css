@@ -74,7 +74,7 @@ body {
 
 }
 
-.header__title_highlight {
+.header__title--highlight {
     font-family: 'Noto Serif', serif;
     font-style: italic;
     font-weight: normal;
