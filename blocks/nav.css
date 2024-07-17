@@ -1,24 +1,24 @@
 .nav {
     display: flex;
     justify-content: space-between;
-}
+  }
 
-.nav__logo {
+  .nav__logo {
     margin-top: 30px;
     margin-left: 30px;
     width: 105px;
     height: 39px;
-}
+  }
 
-.nav__links {
+  .nav__links {
     display: flex;
     gap: 20px;
     list-style-type: none;
     margin-top: 30px;
     margin-right: 80px;
-}
+  }
 
-.nav__link {
+  .nav__link {
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
@@ -26,5 +26,8 @@
     line-height: 20px;
     text-decoration: none;
     color: #000;
-}
+  }
 
+  .nav__link:hover {
+    color: #2f80ed;
+  }

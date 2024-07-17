@@ -5,9 +5,9 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-}
+  }
 
-.header-span {
+  .header-span {
     display: block;
     font-family: "Noto Serif";
     font-style: italic;
@@ -15,9 +15,9 @@
     font-size: 58px;
     line-height: 72px;
     color: #2f80ed;
-}
+  }
 
-.header__title {
+  .header__title {
     max-width: 709px;
     padding-left: 80px;
     padding-top: 183px;
@@ -28,9 +28,9 @@
     font-size: 58px;
     line-height: 72px;
     letter-spacing: -1px;
-}
+  }
 
-.header__description {
+  .header__description {
     max-width: 683px;
     padding-left: 80px;
     padding-top: 28px;
@@ -40,34 +40,33 @@
     font-weight: normal;
     font-size: 20px;
     line-height: 30px;
-}
+  }
 
-.header__image {
+  .header__image {
     width: 646px;
     height: 568px;
     position: absolute;
     right: 5px;
     top: 124px;
-}
+  }
 
-.header__footer {
+  .header__footer {
     display: flex;
     justify-content: space-between;
     padding: 0 80px 40px;
     margin-top: auto;
     align-items: end;
-}
+  }
 
-.header__paragraph {
+  .header__paragraph {
     margin: 0;
-}
+  }
 
-.header__footer p {
+  .header__footer p {
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
     color: #838383;
-}
-
+  }
